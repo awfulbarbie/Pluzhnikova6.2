@@ -1,0 +1,15 @@
+D:\Учебная практика\Задание 6\lab6.3(console)\lab6.3(console)\bin\Debug\net6.0\lab6.3(console).exe
+D:\Учебная практика\Задание 6\lab6.3(console)\lab6.3(console)\bin\Debug\net6.0\lab6.3(console).deps.json
+D:\Учебная практика\Задание 6\lab6.3(console)\lab6.3(console)\bin\Debug\net6.0\lab6.3(console).runtimeconfig.json
+D:\Учебная практика\Задание 6\lab6.3(console)\lab6.3(console)\bin\Debug\net6.0\lab6.3(console).dll
+D:\Учебная практика\Задание 6\lab6.3(console)\lab6.3(console)\bin\Debug\net6.0\lab6.3(console).pdb
+D:\Учебная практика\Задание 6\lab6.3(console)\lab6.3(console)\obj\Debug\net6.0\lab6.3(console).csproj.AssemblyReference.cache
+D:\Учебная практика\Задание 6\lab6.3(console)\lab6.3(console)\obj\Debug\net6.0\lab6.3(console).GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебная практика\Задание 6\lab6.3(console)\lab6.3(console)\obj\Debug\net6.0\lab6.3(console).AssemblyInfoInputs.cache
+D:\Учебная практика\Задание 6\lab6.3(console)\lab6.3(console)\obj\Debug\net6.0\lab6.3(console).AssemblyInfo.cs
+D:\Учебная практика\Задание 6\lab6.3(console)\lab6.3(console)\obj\Debug\net6.0\lab6.3(console).csproj.CoreCompileInputs.cache
+D:\Учебная практика\Задание 6\lab6.3(console)\lab6.3(console)\obj\Debug\net6.0\lab6.3(console).dll
+D:\Учебная практика\Задание 6\lab6.3(console)\lab6.3(console)\obj\Debug\net6.0\refint\lab6.3(console).dll
+D:\Учебная практика\Задание 6\lab6.3(console)\lab6.3(console)\obj\Debug\net6.0\lab6.3(console).pdb
+D:\Учебная практика\Задание 6\lab6.3(console)\lab6.3(console)\obj\Debug\net6.0\lab6.3(console).genruntimeconfig.cache
+D:\Учебная практика\Задание 6\lab6.3(console)\lab6.3(console)\obj\Debug\net6.0\ref\lab6.3(console).dll
